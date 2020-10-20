@@ -8,6 +8,7 @@ chooseNum.innerHTML = `
 
 let button = document.querySelector("#playbtn");
 
+
 button.addEventListener('click', () => {
     var retries = 0;
     
